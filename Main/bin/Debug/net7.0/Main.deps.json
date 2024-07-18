@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Main/1.0.0": {
+        "dependencies": {
+          "SimpleXmlValidatorLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Main.dll": {}
+        }
+      },
+      "SimpleXmlValidatorLibrary/1.0.0": {
+        "runtime": {
+          "SimpleXmlValidatorLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleXmlValidatorLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
